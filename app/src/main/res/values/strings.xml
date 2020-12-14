@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeTeams</string>
+    <string name="txtTitle">WeTeams</string>
+    <string name="editEmail">Email</string>
+    <string name="editPassword">Password</string>
+    <string name="editUsername">Username (for Sign Up)</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="editRePassword">Re-type Password</string>
+    <string name="editNewUsername">New Username</string>
+    <string name="editOldPass">Enter current password</string>
+    <string name="editNewPass">Enter new password</string>
+    <string name="editReNewPass">Re-enter new password</string>
+    <string name="btnCreateProject">Create Project</string>
+    <string name="btnJoinProject">Join Project</string>
+    <string name="editDescription">Event Description</string>
+    <string name="placeHolderText">No Event</string>
+    <string name="noEventText">No Events Found</string>
+    <string name="todayEventHeaderText">DUE TODAY</string>
+    <string name="upcomingEventHeaderText">UPCOMING EVENTS</string>
+    <string name="btnSendChat">Send</string>
+    <string name="completedEventHeaderText">COMPLETED</string>
+    <string name="close">Close</string>
+</resources>
